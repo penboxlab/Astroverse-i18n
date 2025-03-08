@@ -17,7 +17,7 @@
     "@astrojs/rss": "^4.0.10",
     "@astrojs/sitemap": "^3.2.1",
     "@astrojs/tailwind": "^6.0.0",
-    "astro": "5.0.5",
+    "astro": "5.0.8",
     "astro-icon": "^1.1.0",
     "astro-pagefind": "^1.5.0",
     "astro-seo": "^0.8.4",
